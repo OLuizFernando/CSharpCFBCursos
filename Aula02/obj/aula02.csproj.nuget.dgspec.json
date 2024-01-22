@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\aula02\\aula02.csproj": {}
+    "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\Aula02\\aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\aula02\\aula02.csproj": {
+    "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\Aula02\\aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\aula02\\aula02.csproj",
+        "projectUniqueName": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\Aula02\\aula02.csproj",
         "projectName": "aula02",
-        "projectPath": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\aula02\\aula02.csproj",
+        "projectPath": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\Aula02\\aula02.csproj",
         "packagesPath": "C:\\Users\\Luiz Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\aula02\\obj\\",
+        "outputPath": "C:\\Users\\Luiz Fernando\\Desktop\\tudo\\devs\\repositórios\\CSharpCFBCursos\\Aula02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luiz Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
